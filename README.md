@@ -29,3 +29,6 @@ For questions, data access requests, or collaboration inquiries:
 
 
 [1] Ghosh I. How people are really using gen AI in 2025. Harvard Business Review. Published April 23, 2025. Accessed May 11, 2025. https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025
+
+
+[![DOI](https://zenodo.org/badge/981681328.svg)](https://doi.org/10.5281/zenodo.15385119)
